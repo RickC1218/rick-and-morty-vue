@@ -51,4 +51,4 @@ App running at:
 Now, you should be able to access the "Rick and Morty" application in your local browser and explore it!
 
 ## Application Image
-![Rick and Morty Application](src/assets/images/rick-and-morty-app.png)
+![Rick and Morty Application](./src/assets/app-rick-and-morty.png)
